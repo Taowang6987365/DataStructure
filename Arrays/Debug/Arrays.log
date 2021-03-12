@@ -1,7 +1,0 @@
-﻿  main.cpp
-D:\数据结构\Arrays\Arrays\main.cpp(11,8): error C2131: expression did not evaluate to a constant
-D:\数据结构\Arrays\Arrays\main.cpp(11,8): message : failure was caused by a read of a variable outside its lifetime
-D:\数据结构\Arrays\Arrays\main.cpp(11,8): message : see usage of 'n'
-D:\数据结构\Arrays\Arrays\main.cpp(12,7): error C3863: array type 'int [n]' is not assignable
-D:\数据结构\Arrays\Arrays\main.cpp(14,13): error C2143: syntax error: missing ';' before ':'
-D:\数据结构\Arrays\Arrays\main.cpp(14,16): error C2143: syntax error: missing ';' before ')'
