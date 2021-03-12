@@ -3,71 +3,71 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30711.63
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "001Arrays", "Arrays\Arrays.vcxproj", "{25D28627-1D4A-47F8-81FE-5420C691414A}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "002Sturct", "Sturct\Sturct.vcxproj", "{90BAF8F8-E081-40BB-8B91-1ADD38908D41}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "003Pointers", "Pointers\Pointers.vcxproj", "{B54D3930-DA28-4DB1-A4B5-A3D1E5D9DECA}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "004Reference", "References\References.vcxproj", "{DF2BAE5A-759D-4A31-B063-197670BBD019}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "005PointerToStructure", "PointerToStructure\PointerToStructure.vcxproj", "{C698E3EF-A05B-4B9B-AC84-8279A2D49D36}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "006ParameterPassing", "006ParameterPassing\006ParameterPassing.vcxproj", "{8C138A6A-6433-4CBB-8FE1-5F341725DFB7}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "007ArrayAsParameter", "ArrayAsParameter\ArrayAsParameter.vcxproj", "{EB70D34B-1C48-409A-AC78-7CA3E0C18FE4}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "008StructAsParameter", "StructAsParameter\StructAsParameter.vcxproj", "{A6628ECF-589B-47CF-AC80-2B8E993B47B2}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "009MonolithicProgram", "MonolithicProgram\MonolithicProgram.vcxproj", "{8465B00A-D7DC-4EF4-AB7E-79CC52521BEA}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "010ModularProgram", "ModularProgram\ModularProgram.vcxproj", "{81E617F5-2B99-4096-AEEB-6BBAB7670A91}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "011StructureAndFunction", "StructureAndFunction\StructureAndFunction.vcxproj", "{6F2C8DB1-F214-47D5-931F-A0ADEFB52E4A}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "012Object-OrientedProgram", "Object-OrientedProgram\Object-OrientedProgram.vcxproj", "{05C8C548-EBA9-4B55-AB56-CC6587AB9E4C}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "013Classes", "Classes\Classes.vcxproj", "{913E5B1D-615D-432A-AE0F-72E27CB0FC11}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "014Recursion", "Recursion\Recursion.vcxproj", "{398CDFE1-A017-4503-BEE0-424330AC963E}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "015StaticAndGlobalVarInRecursion", "015StaticAndGlobalVarInRecursion\015StaticAndGlobalVarInRecursion.vcxproj", "{934B1C2C-C696-4EA2-9F46-C57D47C07E51}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "016TreeRecursion", "016TreeRecursion\016TreeRecursion.vcxproj", "{5FE2CB56-336B-449A-A895-B6DE081683FD}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "017IndrectRecursion", "017IndrectRecursion\017IndrectRecursion.vcxproj", "{04695EE3-7480-42B2-9595-2014F2435F88}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "018NestedRecursion", "018NestedRecursion\018NestedRecursion.vcxproj", "{CA3ADF59-9CDF-4993-B6A5-8BCA19722D5D}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "019SumofN", "019SumofN\019SumofN.vcxproj", "{DAF3E82E-915F-4E0D-9F53-6B0DBECFCDB0}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "020Factorio", "020Factorio\020Factorio.vcxproj", "{F65EF5DD-4992-44CB-92BC-ECE5FC2A6338}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "021PowRecursion", "021PowRecursion\021PowRecursion.vcxproj", "{0EB4FEB1-C421-42F6-B692-A335D8676C14}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "022TylorSeriesRecursion", "022TylorSeriesRecursion\022TylorSeriesRecursion.vcxproj", "{F0077C68-1797-4480-9DAB-6DE26E58DC7D}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "023TaylorSeriesHornorRules", "023TaylorSeriesHornorRules\023TaylorSeriesHornorRules.vcxproj", "{806D7F37-1F16-4F45-94AF-4A3FEE90EE71}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "024TaylorSeriesIterative", "024TaylorSeriesIterative\024TaylorSeriesIterative.vcxproj", "{B5CF7278-1314-40B6-8872-DC276419C580}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "025Fibonacci", "Fibonacci\Fibonacci.vcxproj", "{2D8E5E7A-DD5C-4D59-951E-6E564041CDB3}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "026nCrRecursion", "026nCrRecursion\026nCrRecursion.vcxproj", "{40893EF7-17BE-4089-87DC-FD69C1C264C7}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 Recursion", "02 Recursion", "{0C42FE19-9D1E-44C1-9C2A-498BF6EC2FB9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 C lang", "01 C lang", "{9DCE97C8-DEDF-4434-B566-C87AF5918E8D}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "027Hanoi", "027Hanoi\027Hanoi.vcxproj", "{9735790A-FEBE-4B12-A355-DD51975F8109}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 ArrayADT", "03 ArrayADT", "{1DD6C673-363C-4207-AF87-DB88BD39F712}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "028 Array", "028 Array\028 Array.vcxproj", "{BA3DDC78-503F-4CE4-82A2-893A0AD9486E}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "001Arrays", "01 C Lang\001Arrays\Arrays.vcxproj", "{25D28627-1D4A-47F8-81FE-5420C691414A}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "029 ArrayCPP", "029 ArrayCPP\029 ArrayCPP.vcxproj", "{607878FD-FFD4-4BD5-BF86-9FEF9EDD7B61}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "002Sturct", "01 C Lang\002Sturct\Sturct.vcxproj", "{90BAF8F8-E081-40BB-8B91-1ADD38908D41}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "030 ArrayClass", "030 ArrayClass\030 ArrayClass.vcxproj", "{8560485A-BF95-421A-B0E9-D93DB13D1DF0}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "003Pointers", "01 C Lang\003Pointers\Pointers.vcxproj", "{B54D3930-DA28-4DB1-A4B5-A3D1E5D9DECA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "004Reference", "01 C Lang\004References\References.vcxproj", "{DF2BAE5A-759D-4A31-B063-197670BBD019}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "005PointerToStructure", "01 C Lang\005PointerToStructure\PointerToStructure.vcxproj", "{C698E3EF-A05B-4B9B-AC84-8279A2D49D36}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "006ParameterPassing", "01 C Lang\006ParameterPassing\006ParameterPassing.vcxproj", "{8C138A6A-6433-4CBB-8FE1-5F341725DFB7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "007ArrayAsParameter", "01 C Lang\007ArrayAsParameter\ArrayAsParameter.vcxproj", "{EB70D34B-1C48-409A-AC78-7CA3E0C18FE4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "008StructAsParameter", "01 C Lang\008StructAsParameter\StructAsParameter.vcxproj", "{A6628ECF-589B-47CF-AC80-2B8E993B47B2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "009MonolithicProgram", "01 C Lang\009MonolithicProgram\MonolithicProgram.vcxproj", "{8465B00A-D7DC-4EF4-AB7E-79CC52521BEA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "010ModularProgram", "01 C Lang\010ModularProgram\ModularProgram.vcxproj", "{81E617F5-2B99-4096-AEEB-6BBAB7670A91}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "011StructureAndFunction", "01 C Lang\011StructureAndFunction\StructureAndFunction.vcxproj", "{6F2C8DB1-F214-47D5-931F-A0ADEFB52E4A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "012Object-OrientedProgram", "01 C Lang\012Object-OrientedProgram\Object-OrientedProgram.vcxproj", "{05C8C548-EBA9-4B55-AB56-CC6587AB9E4C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "013Classes", "01 C Lang\013Classes\Classes.vcxproj", "{913E5B1D-615D-432A-AE0F-72E27CB0FC11}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "014Recursion", "02 Recursion\014Recursion\Recursion.vcxproj", "{398CDFE1-A017-4503-BEE0-424330AC963E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "015StaticAndGlobalVarInRecursion", "02 Recursion\015StaticAndGlobalVarInRecursion\015StaticAndGlobalVarInRecursion.vcxproj", "{934B1C2C-C696-4EA2-9F46-C57D47C07E51}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "016TreeRecursion", "02 Recursion\016TreeRecursion\016TreeRecursion.vcxproj", "{5FE2CB56-336B-449A-A895-B6DE081683FD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "017IndrectRecursion", "02 Recursion\017IndrectRecursion\017IndrectRecursion.vcxproj", "{04695EE3-7480-42B2-9595-2014F2435F88}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "018NestedRecursion", "02 Recursion\018NestedRecursion\018NestedRecursion.vcxproj", "{CA3ADF59-9CDF-4993-B6A5-8BCA19722D5D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "019SumofN", "02 Recursion\019SumofN\019SumofN.vcxproj", "{DAF3E82E-915F-4E0D-9F53-6B0DBECFCDB0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "020Factorio", "02 Recursion\020Factorio\020Factorio.vcxproj", "{F65EF5DD-4992-44CB-92BC-ECE5FC2A6338}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "021PowRecursion", "02 Recursion\021PowRecursion\021PowRecursion.vcxproj", "{0EB4FEB1-C421-42F6-B692-A335D8676C14}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "022TylorSeriesRecursion", "02 Recursion\022TylorSeriesRecursion\022TylorSeriesRecursion.vcxproj", "{F0077C68-1797-4480-9DAB-6DE26E58DC7D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "023TaylorSeriesHornorRules", "02 Recursion\023TaylorSeriesHornorRules\023TaylorSeriesHornorRules.vcxproj", "{806D7F37-1F16-4F45-94AF-4A3FEE90EE71}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "024TaylorSeriesIterative", "02 Recursion\024TaylorSeriesIterative\024TaylorSeriesIterative.vcxproj", "{B5CF7278-1314-40B6-8872-DC276419C580}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "025Fibonacci", "02 Recursion\025Fibonacci\Fibonacci.vcxproj", "{2D8E5E7A-DD5C-4D59-951E-6E564041CDB3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "026nCrRecursion", "02 Recursion\026nCrRecursion\026nCrRecursion.vcxproj", "{40893EF7-17BE-4089-87DC-FD69C1C264C7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "027Hanoi", "02 Recursion\027Hanoi\027Hanoi.vcxproj", "{9735790A-FEBE-4B12-A355-DD51975F8109}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "028 Array", "03 ArrayADT\028 Array\028 Array.vcxproj", "{BA3DDC78-503F-4CE4-82A2-893A0AD9486E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "029 ArrayCPP", "03 ArrayADT\029 ArrayCPP\029 ArrayCPP.vcxproj", "{607878FD-FFD4-4BD5-BF86-9FEF9EDD7B61}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "030 ArrayClass", "03 ArrayADT\030 ArrayClass\030 ArrayClass.vcxproj", "{8560485A-BF95-421A-B0E9-D93DB13D1DF0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
